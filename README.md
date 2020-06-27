@@ -1,4 +1,4 @@
-# Next word prediction
+# Sentence Ender & Interrupter
 This is a simple project to predict the last word of your sentence using ML (Machine Learning) and interrupt by vocalizing the output. Libraries used: EricFillion/happy-transformer & AsaoluElijah/say-it
 
 ## Idea
